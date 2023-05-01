@@ -1,0 +1,154 @@
+{
+  "links": {
+    "home": "Home",
+    "completedChecks": "Completed Checks",
+    "checklists": "Checklists"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signOut": "Sign out"
+  },
+  "warnings": {
+    "completedChecks": {
+      "notFound": "You don't have any completed checklists. You can complete your checklist by clicking the Create button."
+    },
+    "checklists": {
+      "notFound": "You don't have any checklists. You have to create them first"
+    }
+  },
+  "home": {
+    "hello": "Hello",
+    "stats": {
+      "checklist": {
+        "title": "CHECKLISTS",
+        "description": "You can use checklists at home, work, school or anywhere. Create, edit and complete checklists."
+      },
+      "completedChecks": {
+        "title": "COMPLETED CHECKLISTS",
+        "description": "You can view completed checklists."
+      }
+    }
+  },
+  "locale": {
+    "language": "Language",
+    "en": "English",
+    "tr": "Turkish"
+  },
+  "checklist": {
+    "header": "My checklists",
+    "new": "Create new checklist",
+    "title": "Title",
+    "titleDescription": "Checklist title required",
+    "titlePlaceholder": "Home",
+    "itemName": "Checklist item name",
+    "itemDescription": "Type the name of the item you want to check",
+    "itemPlaceholder": "Keys",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "This checklist for...",
+    "error": {
+      "minChar": "Must be at least 2 characters.",
+      "minItem": "There must be at least 1 item.",
+      "required": "Please fill in the required fields.",
+      "maxChar": "Must be a maximum of 100 characters",
+      "maxCharText": "Must be a maximum of 170 characters"
+    },
+    "success": {
+      "create": {
+        "msgTitle": "Checklist created",
+        "msgContent": "You can now use your checklist 🥳"
+      },
+      "update": {
+        "msgTitle": "Checklist updated",
+        "msgContent": "You can now use your updated checklist 🥳"
+      },
+      "delete": {
+        "msgTitle": "Checklist deleted.",
+        "msgContent": "You can create new checklists or edit previous ones 🧐"
+      }
+    }
+  },
+  "useMe": "Use me",
+  "edit": "Edit",
+  "done": "Done",
+  "optional": "Optional",
+  "create": "Create",
+  "update": "Update",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "loadMore": "Load more",
+  "search": "Search",
+  "error": "Error",
+  "notFound": "Not found!",
+  "noMorePage": "Yay! You've seen it all",
+  "deleteConfirm": {
+    "title": "This action is irreversible",
+    "message": "Are you sure you want to proceed?"
+  },
+  "completedChecks": {
+    "title": "Completed checklists",
+    "table": {
+      "checklistName": "Checklist",
+      "date": "Date",
+      "actions": "Actions"
+    },
+    "create": {
+      "title": "Check it out",
+      "selectLabel": "Choose one of the checklists",
+      "selectPlaceholder": "Select",
+      "note": "Note",
+      "notFound": "You don't have any checklists, you have to create them first"
+    },
+    "success": {
+      "create": {
+        "msgTitle": "Your check is complete",
+        "msgContent": "Comfy for now! 🥳"
+      }
+    }
+  },
+  "meta": {
+    "title": {
+      "landing": "Checkinout",
+      "home": "Home | Checkinout",
+      "checklists": "Checklists | Checkinout",
+      "completedChecks": "Completed Checklists | Checkinout",
+      "notFound": "Not Found | Checkinout"
+    },
+    "description": "With Checkinout you can create, edit and complete checklists."
+  },
+  "hero": {
+    "title": "A New Way to Track Your Daily Tasks",
+    "description": "Checkinout streamlines the process of daily routine checks. Create a master list of checks you need to perform every day, and easily mark them as completed with a simple tap. Ideal for busy professionals, parents, or anyone looking for an easier way to manage their daily routine checks. Try it now and simplify your daily routine checks.",
+    "button": "Get Started"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is Checkinout?",
+        "answer": "Checkinout is an application that simplifies managing your daily routine checks. You can create a list of tasks that you need to complete every day and mark them off as you go. It's ideal for busy professionals, parents, or anyone looking for an easier way to manage their daily routine checks."
+      },
+      {
+        "question": "Who can use Checkinout?",
+        "answer": "Anyone can use Checkinout. It's ideal for busy professionals, parents, or anyone looking for an easier way to manage their daily routine checks."
+      },
+      {
+        "question": "Is Checkinout free?",
+        "answer": "Yes, Checkinout is free to use."
+      },
+      {
+        "question": "How many lists can I create in Checkinout?",
+        "answer": "You can create as many lists as you want in Checkinout."
+      },
+      {
+        "question": "How many items can I create in Checkinout?",
+        "answer": "You can create as many items as you want in Checkinout."
+      },
+      {
+        "question": "On which devices can I use Checkinout?",
+        "answer": "You can use Checkinout on any device that has an internet connection and a web browser."
+      }
+    ]
+  },
+  "footer": "Find peace of mind in knowing: Check it out today.",
+  "backToTop": "Scroll to top"
+}

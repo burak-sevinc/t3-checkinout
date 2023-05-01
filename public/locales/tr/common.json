@@ -1,0 +1,154 @@
+{
+  "links": {
+    "home": "Anasayfa",
+    "completedChecks": "Tamamlanan Kontrollerim",
+    "checklists": "Kontrol Listelerim"
+  },
+  "auth": {
+    "signIn": "Giriş yap",
+    "signOut": "Oturumu kapat"
+  },
+  "warnings": {
+    "completedChecks": {
+      "notFound": "Hiç tamamlanan kontrol listen yok. Oluştur butonuna tıklayarak kontrol listeni tamamlayabilirsin."
+    },
+    "checklists": {
+      "notFound": "Hiç kontrol listen yok. Önce oluşturmalısın"
+    }
+  },
+  "home": {
+    "hello": "Merhaba",
+    "stats": {
+      "checklist": {
+        "title": "Kontrol listeleri",
+        "description": "Kontrol listeleri oluşturabilir, düzenleyebilir ve silebilirsiniz."
+      },
+      "completedChecks": {
+        "title": "Tamamlanmış kontrol listeleri",
+        "description": "Tamamlanmış kontrol listelerini görüntüleyebilirsiniz."
+      }
+    }
+  },
+  "locale": {
+    "language": "Dil seçenekleri",
+    "en": "İngilizce",
+    "tr": "Türkçe"
+  },
+  "checklist": {
+    "header": "Kontrol listelerim",
+    "new": "Yeni kontrol listesi oluştur",
+    "title": "Başlık",
+    "titleDescription": "Kontrol listesi başlığı mutlaka olmalıdır",
+    "titlePlaceholder": "Ev",
+    "itemName": "Kontrol öğesinin adı",
+    "itemDescription": "Kontrol etmek istediğiniz öğenin adını yazın",
+    "itemPlaceholder": "Anahtarlar",
+    "descriptionLabel": "Açıklama",
+    "descriptionPlaceholder": "Bu liste...",
+    "error": {
+      "minChar": "En az 2 karakter olmalıdır.",
+      "minItem": "En az 1 kontrol öğesi olmalıdır.",
+      "required": "Lütfen doldurulması gereken alanları doldurun.",
+      "maxChar": "En fazla 100 karakter olmalıdır.",
+      "maxCharText": "En fazla 170 karakter olmalıdır."
+    },
+    "success": {
+      "create": {
+        "msgTitle": "Kontrol listen oluşturuldu",
+        "msgContent": "Artık listedeki kontrollerini kullanabilirsin 🥳"
+      },
+      "update": {
+        "msgTitle": "Kontrol listen güncellendi",
+        "msgContent": "Güncellenmiş listeni kullanmaya başlayabilirsin 🥳"
+      },
+      "delete": {
+        "msgTitle": "Kontrol listen silindi",
+        "msgContent": "Yeni kontrol listeleri oluşturabilir veya öncekileri düzenleyebilirsiniz 🧐"
+      }
+    }
+  },
+  "useMe": "Beni kullan",
+  "edit": "Düzenle",
+  "done": "Tamamlandı",
+  "optional": "İsteğe bağlı",
+  "create": "Oluştur",
+  "update": "Güncelle",
+  "cancel": "İptal",
+  "delete": "Sil",
+  "loadMore": "Daha fazla",
+  "search": "Ara",
+  "error": "Hata",
+  "notFound": "Bulunamadı!",
+  "noMorePage": "Harika! Hepsini gördün",
+  "deleteConfirm": {
+    "title": "Bu işlem geri alınamaz. ",
+    "message": "Emin misiniz?"
+  },
+  "completedChecks": {
+    "title": "Tamamlanmış kontrol listeleri",
+    "table": {
+      "checklistName": "Kontrol listesi",
+      "date": "Tarih",
+      "actions": "İşlemler"
+    },
+    "create": {
+      "title": "Kontrolünü yap",
+      "selectLabel": "Kontrol listelerinden birini seç",
+      "selectPlaceholder": "Seç",
+      "note": "Not",
+      "notFound": "Hiç kontrol listen yok. Önce oluşturmalısın"
+    },
+    "success": {
+      "create": {
+        "msgTitle": "Kontrolün tamamlandı",
+        "msgContent": "Artık için rahat! 🥳"
+      }
+    }
+  },
+  "meta": {
+    "title": {
+      "landing": "Checkinout",
+      "home": "Anasayfa | Checkinout",
+      "checklists": "Kontrol Listelerim | Checkinout",
+      "completedChecks": "Tamamlanan Kontrollerim | Checkinout",
+      "notFound": "Bulunamadı | Checkinout"
+    },
+    "description": "Checkinout ile kontrol listeleri oluşturabilir, düzenleyebilir ve tamamlayabilirsiniz."
+  },
+  "hero": {
+    "title": "Günün İşlerini Takip Etmenin Yeni Yolu",
+    "description": "Checkinout günlük rutin kontrollerinizi yönetmeyi basitleştirir. Her gün yapmanız gereken işlerin listesini oluşturabilir ve tamamladıkça işaretleyebilirsiniz. Yoğun iş hayatı olanlar, ebeveynler veya günlük rutin kontrollerini daha kolay yönetmek isteyen herkes için idealdir. Şimdi deneyin ve günlük rutin kontrollerinizi kolaylaştırın.",
+    "button": "Hemen Başla"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Checkinout nedir?",
+        "answer": "Checkinout, günlük rutin kontrollerinizi yönetmeyi basitleştiren bir uygulamadır. Her gün yapmanız gereken işlerin listesini oluşturabilir ve tamamladıkça işaretleyebilirsiniz. Yoğun iş hayatı olanlar, ebeveynler veya günlük rutin kontrollerini daha kolay yönetmek isteyen herkes için idealdir."
+      },
+      {
+        "question": "Checkinout'u kimler kullanabilir?",
+        "answer": "Checkinout'u herkes kullanabilir. Yoğun iş hayatı olanlar, ebeveynler veya günlük rutin kontrollerini daha kolay yönetmek isteyen herkes için idealdir."
+      },
+      {
+        "question": "Checkinout ücretsiz mi?",
+        "answer": "Evet, Checkinout ücretsizdir."
+      },
+      {
+        "question": "Checkinout'ta kaç tane liste oluşturabilirim?",
+        "answer": "Checkinout'ta istediğiniz kadar liste oluşturabilirsiniz."
+      },
+      {
+        "question": "Checkinout'ta kaç tane kontrol öğesi oluşturabilirim?",
+        "answer": "Checkinout'ta istediğiniz kadar kontrol öğesi oluşturabilirsiniz."
+      },
+      {
+        "question": "Checkinout'u hangi cihazlarda kullanabilirim?",
+        "answer": "İnternet bağlantısı ve tarayıcısı olan herhangi bir cihazda Checkinout'u kullanabilirsiniz."
+      }
+    ]
+  },
+  "footer": "Gözünüz arkada kalmadan keşfedin: Bugün kontrol edin.",
+  "backToTop": "Başa dön"
+}
